@@ -1,0 +1,2 @@
+# Analytical_Modeling_of_LLM_Computaion_and_Communication_On_Real_CPU_Or_GPU_Hardware
+ This Project aims to develop an analytical performance model that predicts LLM execution time, memory consumption, and communication overhead based on hardware configurations, model parameters, and parallelization strategies. By profiling LLM execution on real CPU/GPU hardware and using Roofline model analysis, this study will identify performance bottlenecks and propose optimization techniques for energy-efficient AI computing.
